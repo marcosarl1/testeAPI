@@ -1,4 +1,4 @@
-package bootcamp.testeapi.domain.service;
+package bootcamp.testeapi.service;
 
 import bootcamp.testeapi.domain.model.User;
 

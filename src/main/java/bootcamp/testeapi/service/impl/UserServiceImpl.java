@@ -1,8 +1,8 @@
-package bootcamp.testeapi.domain.service.impl;
+package bootcamp.testeapi.service.impl;
 
 import bootcamp.testeapi.domain.model.User;
 import bootcamp.testeapi.domain.repository.UserRepository;
-import bootcamp.testeapi.domain.service.UserService;
+import bootcamp.testeapi.service.UserService;
 import org.springframework.stereotype.Service;
 
 import java.util.NoSuchElementException;
